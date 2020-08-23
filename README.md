@@ -1,2 +1,4 @@
 # hello-world
-My second repository. Getting started! Excited!
+Getting started! Excited!
+Python is very interesting to me.
+I am working on a career change by getting a Google IT Automation with Python Professional Certificate!
